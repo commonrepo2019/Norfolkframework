@@ -1,0 +1,41 @@
+# Created on 2019-03-04T15:51:36.071
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created on 2019-03-04T15:51:38.631
+Unexpected IOException with stream: 
+
+
+# Created on 2019-03-04T15:51:38.794
+Unexpected IOException with stream: 
+
+
+# Created on 2019-03-04T15:51:41.735
+Unexpected IOException with stream: 
+
+
+# Created on 2019-03-04T15:51:41.923
+Unexpected IOException with stream: 
+
+
+# Created on 2019-03-04T15:51:46.023
+Unexpected IOException with stream: 
+
+
+# Created on 2019-03-04T15:51:46.446
+Unexpected IOException with stream: 
+
+
+# Created on 2019-03-04T15:51:46.587
+Unexpected IOException with stream: 
+
+
+# Created on 2019-03-04T15:51:48.583
+Unexpected IOException with stream: 
+
+

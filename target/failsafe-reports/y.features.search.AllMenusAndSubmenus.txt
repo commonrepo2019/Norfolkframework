@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: y.features.search.AllMenusAndSubmenus
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 126.622 s <<< FAILURE! - in y.features.search.AllMenusAndSubmenus
+all_menus_and_sub_menus(y.features.search.AllMenusAndSubmenus)  Time elapsed: 110.204 s  <<< ERROR!
+java.net.MalformedURLException: no protocol: 
+	at y.features.search.AllMenusAndSubmenus.all_menus_and_sub_menus(AllMenusAndSubmenus.java:160)
+

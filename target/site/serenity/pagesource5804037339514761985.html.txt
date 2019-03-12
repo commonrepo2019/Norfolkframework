@@ -1,0 +1,1455 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" itemtype="https://schema.org/WebPage" itemscope="itemscope" prefix="og: http://ogp.me/ns#" class="uk-notouch js_active  vc_desktop  vc_transform js-running"><head>
+  <meta charset="UTF-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+  <title>Contact Us | The N&amp;D Group Insurance</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v9.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="Please contact us - we would love to hear from you, and we value your feedback. Learn how." name="description" />
+<link href="https://www.ndgroup.com/contact-us/" rel="canonical" />
+<meta content="en_US" property="og:locale" />
+<meta content="article" property="og:type" />
+<meta content="Contact Us | The N&amp;D Group Insurance" property="og:title" />
+<meta content="Please contact us - we would love to hear from you, and we value your feedback. Learn how." property="og:description" />
+<meta content="https://www.ndgroup.com/contact-us/" property="og:url" />
+<meta content="The N&amp;D Group Insurance" property="og:site_name" />
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="Please contact us - we would love to hear from you, and we value your feedback. Learn how." name="twitter:description" />
+<meta content="Contact Us | The N&amp;D Group Insurance" name="twitter:title" />
+<!-- / Yoast SEO plugin. -->
+
+<link href="//fonts.googleapis.com" rel="dns-prefetch" />
+<link href="//s.w.org" rel="dns-prefetch" />
+<link href="https://www.ndgroup.com/feed/" title="The N&amp;D Group Insurance » Feed" type="application/rss+xml" rel="alternate" />
+<link href="https://www.ndgroup.com/comments/feed/" title="The N&amp;D Group Insurance » Comments Feed" type="application/rss+xml" rel="alternate" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ndgroup.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=2fa5cece326b3981bea29c812fd4d757"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&amp;&amp;(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&amp;&amp;k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i&lt;j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&amp;&amp;c.supports[j[i]],"flag"!==j[i]&amp;&amp;(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&amp;&amp;c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&amp;&amp;!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&amp;&amp;c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&amp;&amp;g.twemoji&amp;&amp;(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.ndgroup.com/wp-includes/js/wp-emoji-release.min.js?ver=2fa5cece326b3981bea29c812fd4d757" type="text/javascript" defer="defer"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link media="all" type="text/css" href="https://www.ndgroup.com/wp-includes/css/dist/block-library/style.min.css?ver=2fa5cece326b3981bea29c812fd4d757" id="wp-block-library-css" rel="stylesheet" />
+<link media="all" type="text/css" href="https://www.ndgroup.com/wp-content/plugins/kadence-blocks/dist/blocks.style.build.css?ver=1.3.6" id="kadence-blocks-style-css-css" rel="stylesheet" />
+<link media="all" type="text/css" href="https://www.ndgroup.com/wp-content/plugins/widgetkit/cache/wk-styles-faed9fc3.css?ver=2fa5cece326b3981bea29c812fd4d757" id="wk-styles-css" rel="stylesheet" />
+<link media="all" type="text/css" href="https://www.ndgroup.com/wp-content/plugins/wp-flexible-map/css/styles.css?ver=1.17.0" id="flxmap-css" rel="stylesheet" />
+<link media="all" type="text/css" href="https://www.ndgroup.com/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=2fa5cece326b3981bea29c812fd4d757" id="upw_theme_standard-css" rel="stylesheet" />
+<link media="all" type="text/css" href="https://www.ndgroup.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.7" id="js_composer_front-css" rel="stylesheet" />
+<link media="all" type="text/css" href="https://www.ndgroup.com/wp-content/themes/virtue/assets/css/virtue.css?ver=3.3.2" id="virtue_theme-css" rel="stylesheet" />
+<link media="all" type="text/css" href="https://www.ndgroup.com/wp-content/themes/virtue/assets/css/skins/default.css?ver=3.3.2" id="virtue_skin-css" rel="stylesheet" />
+<link media="all" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic%7CLato%3A700&amp;ver=1550634672" id="redux-google-fonts-virtue-css" rel="stylesheet" />
+<link media="screen" type="text/css" href="https://www.ndgroup.com/wp-content/plugins/tw-recent-posts-widget/tw-recent-posts-widget.css?ver=1.0.5" id="tw-recent-posts-widget-css" rel="stylesheet" />
+<script src="https://www.ndgroup.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-content/plugins/widgetkit/cache/uikit2-35609bed.js?ver=2fa5cece326b3981bea29c812fd4d757" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-content/plugins/widgetkit/cache/wk-scripts-5b4ab71b.js?ver=2fa5cece326b3981bea29c812fd4d757" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.ndgroup.com/wp-content/themes/virtue/assets/js/vendor/respond.min.js?ver=2fa5cece326b3981bea29c812fd4d757'></script>
+<![endif]-->
+<link href="https://www.ndgroup.com/wp-json/" rel="https://api.w.org/" />
+<link href="https://www.ndgroup.com/xmlrpc.php?rsd" title="RSD" type="application/rsd+xml" rel="EditURI" />
+<link href="https://www.ndgroup.com/wp-includes/wlwmanifest.xml" type="application/wlwmanifest+xml" rel="wlwmanifest" /> 
+
+<link href="https://www.ndgroup.com/?p=2049" rel="shortlink" />
+<link href="https://www.ndgroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ndgroup.com%2Fcontact-us%2F" type="application/json+oembed" rel="alternate" />
+<link href="https://www.ndgroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ndgroup.com%2Fcontact-us%2F&amp;format=xml" type="text/xml+oembed" rel="alternate" />
+<script>
+jQuery(document).ready(function() {
+    var a = window.location.hostname;
+    if (a.search("www") !== -1) a = a.replace("www.", "");
+    if ("ndgroup.com" == a) {
+        jQuery(".menu-agent-login.menu-item-5388 a").attr("href", "https://www.agentpak.com");
+        jQuery("#Login").attr("action", "https://myinsurance.ndgroup.com/Login.action");
+        jQuery("a#Login.redLink.bolded").attr("href", "https://myinsurance.ndgroup.com/Login.action");
+        jQuery("#myinsurance_forgot_pass").attr("href", "https://myinsurance.ndgroup.com/ForgotPassword.action");
+        jQuery("#myinsurance_forgot_reg").attr("href", "https://myinsurance.ndgroup.com/Registration");
+        jQuery("a#myinsurance_forgot_reg.redLink.bolded").attr("href", "https://myinsurance.ndgroup.com/Registration");
+        jQuery("#box_divId").attr("onclick", "window.open('https://myinsurance.ndgroup.com/Registration');");
+        jQuery(".mobileBtnRedirection").attr("onclick", "window.open('https://myinsurance.ndgroup.com/Registration');");
+        jQuery(".menu-online-payment.menu-item-5380 a").attr("href", "https://ipn.paymentus.com/otp/stde/ndni");
+        jQuery("#edp-form-custom").attr("href", "https://ipn.paymentus.com/otp/stde/ndni");
+        jQuery("#menu-billing .menu-online-payment.menu-item-5405 a").attr("href", "https://ipn.paymentus.com/otp/stde/ndni");
+        jQuery("div.myinsu p a.boton_readmore").attr("href", "https://myinsurance.ndgroup.com/Registration");
+    } else {
+        jQuery(".menu-agent-login.menu-item-5388 a").attr("href", "https://qa.agentpak.com");
+        jQuery("#Login").attr("action", "https://myinsuranceqa.ndgroup.com/Login.action");
+		jQuery("a#Login.redLink.bolded").attr("href", "https://myinsuranceqa.ndgroup.com/Login.action");
+        jQuery("#myinsurance_forgot_pass").attr("href", "https://myinsuranceqa.ndgroup.com/ForgotPassword.action");
+        jQuery("#myinsurance_forgot_reg").attr("href", "https://myinsuranceqa.ndgroup.com/Registration");
+		jQuery("a#myinsurance_forgot_reg.redLink.bolded").attr("href", "https://myinsuranceqa.ndgroup.com/Registration");
+        jQuery("#box_divId").attr("onclick", "window.open('https://myinsuranceqa.ndgroup.com/Registration');");
+        jQuery(".mobileBtnRedirection").attr("onclick", "window.open('https://myinsuranceqa.ndgroup.com/Registration');");
+        jQuery(".menu-online-payment.menu-item-5380 a").attr("href", "https://secure1.paymentus.com/rotp/ndni");
+        jQuery("#edp-form-custom").attr("href", "https://secure1.paymentus.com/rotp/ndni");
+        jQuery("#menu-billing .menu-online-payment.menu-item-5405 a").attr("href", "https://secure1.paymentus.com/rotp/ndni");
+        jQuery("div.myinsu p a.boton_readmore").attr("href", "https://myinsuranceqa.ndgroup.com/Registration");
+    }
+    jQuery("li.menu-item-5387 a").removeAttr('title');
+});
+</script><style type="text/css">#logo {padding-top:10px;}#logo {padding-bottom:10px;}#logo {margin-left:0px;}#logo {margin-right:0px;}#nav-main {margin-top:10px;}#nav-main {margin-bottom:10px;}.headerfont, .tp-caption {font-family:Open Sans;} .topbarmenu ul li {font-family:Open Sans;}input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; } input[type=number] {-moz-appearance: textfield;}.quantity input::-webkit-outer-spin-button,.quantity input::-webkit-inner-spin-button {display: none;}#containerfooter h3, #containerfooter, .footercredits p, .footerclass a, .footernav ul li a {color:#555555;}.contentclass, .nav-tabs&gt;.active&gt;a, .nav-tabs&gt;.active&gt;a:hover, .nav-tabs&gt;.active&gt;a:focus {background:#ffffff    ;}.topclass {background:#ffffff    ;}.headerclass {background:#ffffff    ;}.navclass {background:#f8f8f8    ;}.mobileclass {background:#f8f8f8    ;}.footerclass {background:#ffffff    ;}body {background:#ffffff ; background-position: 0% 0%;   }.kad-hidepostauthortop, .postauthortop {display:none;}.product_item .product_details h5 {text-transform: none;} @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {#logo .kad-standard-logo {display: none;} #logo .kad-retina-logo {display: block;}}.product_item .product_details h5 {min-height:40px;}[class*="wp-image"] {-webkit-box-shadow: none;-moz-box-shadow: none;box-shadow: none;border:none;}[class*="wp-image"]:hover {-webkit-box-shadow: none;-moz-box-shadow: none;box-shadow: none;border:none;}.light-dropshaddow {-webkit-box-shadow: none;-moz-box-shadow: none;box-shadow: none;}.entry-content p { margin-bottom:16px;}</style><meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator" />
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.ndgroup.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->		<style id="wp-custom-css" type="text/css">
+			
+.vc_column-inner{
+	padding-left: 13px !important;
+	padding-right: 30px !important;
+}
+.sidebar_menu li:last-child {
+    margin-bottom: 5px;
+
+}
+.underline-link{
+	text-decoration:underline !important;
+}
+.re_text{
+color: #B61212 !important;
+	font-weight: 600;
+}
+.re_text:hover {
+	text-decoration:underline;
+	color: #B61212 !important;
+}
+ul {
+    padding-left: 30px;
+}
+.wp-image-drive{
+	width: 50% !important;
+}
+/*bloque rojo sobre widgetkit slidwshow principal*/
+.posicion_absolute {
+		position: absolute;
+    color: white;
+    right: 7%;
+    padding: 1%;
+    margin: 0;
+    text-align: center;
+    width: 320px!important;
+    z-index: 999999;
+    top: 0;
+}
+ .myinsu p{
+	line-height: 28px;
+	font-size: 16px;
+	text-align:left;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.entry-content  p{
+	line-height: 28px;
+	font-size: 16px;
+}
+ .myinsu p:last-child{
+	text-align:center;
+}
+/*3 titulos grises en home*/
+.custom_header {
+padding:3px 3px 15px 3px;
+	background-color: #454545;
+	margin:20px;
+    border-radius: 5px;}
+
+.custom_header h2 { color:white;}
+
+.vc_custom_1543531540549 {
+    min-height: 570px;
+    height: inherit !important;
+	padding-top: 20px !important;
+	font-family: "Open Sans";
+}
+
+.vc_custom_1543531540549 h2 {       font-size: 30px;
+		line-height: 40px;
+		font-weight: 400;
+	margin-bottom:20px;
+	    padding-right: 45px;
+    padding-left: 45px;
+}
+/* botones readmore */
+.boton_readmore {
+	border-color: rgb(221, 51, 51);
+		text-align:center;
+	    border-width: 2px;
+	background-color:#fff!important;
+	min-height: 40px;
+	position:relative;
+	bottom:5%;
+    font-size: 14px;
+    color: #f65058 !important;
+    width: 30%;
+    padding: 10px;
+    min-width: 140px;
+    border: 1px solid #f65058;
+    margin: 0px 0 12px 0px;
+    border-radius: 3px;
+    font-weight: 600;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.5), inset 0 15px 17px rgba(255,255,255,.5), inset 0 -5px 12px rgba(0,0,0,.05);
+    display: inline-block;
+    margin-bottom: 15px !important;
+}
+
+span .boton_readmore{
+padding-left:30px;
+padding-right: 30px;
+
+}
+
+
+.boton_readmore:hover { 
+   border: 1px solid #f65058 !important;
+	color:white;
+	border-width:0px;
+}
+
+
+/*links del menu en footer*/
+.underline-link {
+    color: #428bca !important;
+	
+}
+.underline-link:hover { 
+   color: #428bca !important;
+    text-decoration: underline;}
+
+.underline-link:visited
+{  color: #428bca !important;}
+
+
+/*estilos de menu en barra lateral de paginas interiores*/
+.sidebar_menu, .sidebar_menu2 {
+    position: relative;
+    padding: 10px 0px;
+    font-size: 16px;
+    color:#918f93!important;
+}
+
+.sidebar_menu2 {
+	border: 1px solid #e5e5e5;
+	border-radius: 6px;
+	text-align: center;
+}
+
+.sidebar_menu2 .wpb_wrapper {
+	padding: 5px;
+}
+p .redLink{
+	color: #B61212 !important;
+	font-weight: 600;
+}
+p .redLink:hover{
+	color: #000 !important;
+}
+.red_text {
+	color: #f65058 !important;
+}
+.widgettitle {
+	background: #f65058!important;
+    color: white!important;
+    padding: 5px;
+	  padding-left:20px !important;
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+  margin-top: -15px;
+	font-size: 16px;
+  font-weight: 500;
+}
+
+.menu ul  {
+   margin-top: -20px;
+}
+
+.menu li ul {
+    margin-top: 0px;
+	    color: #000;
+}
+
+.sidebar_menu li {
+	position: relative;
+	min-height: 40px;
+	vertical-align: middle;
+	width: 100%;
+	height: 100%;
+	border: 1px solid #e5e5e5;
+	padding: 10px 15px 5px 20px;
+	margin-bottom: -1px;
+	color: #918f93;
+	
+	 
+}
+.sidebar_menu  li  a:after {
+	content: "\f054";
+    float: right;
+    top: 11px;
+    right: 2%;
+    color: #a0a5aa;
+    font-family: FontAwesome;
+    font-style: normal;
+    speak: none;
+    position: absolute;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none!important;
+	
+}
+.sidebar_menu li li a:after {
+	right: -5%;
+	content: "";
+}
+.sidebar_menu li:hover a:hover:after {
+    color: #f65058;
+}
+
+.sidebar_menu li ul li{
+	position: relative;
+	min-height: 40px;
+	vertical-align: middle;
+	width: 100%;
+	height: 100%;
+	border: 0;
+	padding-left: 0;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	margin-bottom: -15px;
+}
+.sidebar_menu li:first-child {
+	border-top:0px;
+}
+
+.sidebar_menu li:last-child {
+	border-bottom-left-radius:6px;
+	border-bottom-right-radius:6px;
+}
+
+.sidebar_menu a {
+   color: #918f93;
+}
+.sidebar_menu a span {
+   color: #918f93;
+}
+.sidebar_menu a span:hover {
+	color: #f65058 !important; 
+}
+
+.current-menu-item &gt; a span {
+	color: #f65058 !important; 
+}
+.current-menu-item &gt; a:after {
+	color: #f65058 !important; 
+}
+
+.sub-menu a {
+	color: black !important; 
+}
+
+.sub-menu .current-menu-item a span {
+	color: #f65058 !important; 
+}
+.sub-menu{
+	
+}
+@media (max-width: 962px){ 
+.sidebar_menu li li a:after {
+	right: 0%;
+}
+}
+/*Modulo sidebar*/
+.sidebar_module {
+    display: block;
+    border-radius:6px;
+    border: 1px solid #e5e5e5 !important;
+    position: relative;
+    padding: 10px 15px;
+    font-size: 16px;
+    margin:1.5em;
+}
+.sidebar_module a:hover{
+    color:red;
+}
+.c-bouchure .vc_column-inner {
+
+	padding-right: 0px !important;
+}	 
+.c-bouchure .vc_column-inner .sidebar_module {
+	margin-left: 0;
+	margin-right:15px;
+	
+    padding-left: 20px !important;
+	padding-right: 15px !important;
+}
+.c-bouchure img {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width:35%
+}
+.c-bouchure p {
+	 margin-bottom: 5px;
+}
+
+	/*barra de menu gris */
+.navclass {
+	color: #f8f8f8;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+	border-bottom: solid 1px  red!important;
+
+}
+/*estilo de botones en menu principal */
+.sf-menu li
+{width:auto!important;
+display: inline;
+padding:0 15px;}
+
+.sf-menu li a:hover {color:#555!important;
+}
+
+.sf-menu ul
+{ background: #e6e6e6e6;
+	font-size:16px!important;
+}
+
+.sf-menu ul a
+{ background: #f8f8f8; 
+		width:250px!important;
+	font-size:15px!important;
+}
+
+.sf-menu ul a:hover
+{color:#555;
+	font-size:16px!important;
+    background: #e6e6e6;
+    
+}
+
+
+/*links en general*/
+a {color:#555!important;
+}
+a:hover {color:#f65058!important;
+}
+
+/*desaparecer navclass de movil*/
+@media (max-width: 768px) {.navclass {
+  color: #f8f8f8;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+	border-bottom: solid 1px  #f65058!important;
+	display:none;
+}
+	.sidebar_menu li li a:after {
+	right: -1%;
+}
+	.c-bouchure img {
+ max-width: 10%;
+}
+}
+
+/*FOOTER*/
+.footercredits {
+    text-align: center;
+    background-color: #f8f8f8;
+    padding: 20px 0 20px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+
+@media (min-width:576px){.footerclass .containter {width:100%!important;}}
+
+@media (min-width:768px) and (max-width:1200px){
+.uk-width-medium-1-2 {
+width:100%;
+	}
+}
+/*FOOTER*/
+.footercredits {
+	text-align: center;
+    background-color: #f8f8f8;
+    padding: 20px 0 20px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+/*MARGENES GENERALES*/
+.container {width:100%!important;
+	padding-left:0;
+	padding-right:0;
+}
+
+.vc_column_container&gt;.vc_column-inner {
+    width: 100%;
+	padding-left:0;
+	padding-right:0;
+}
+
+/*desaparecer slider overlay de movil*/
+@media (max-width: 768px){.uk-overlay-bottom{display:none;}}
+
+
+/*LOGO*/
+#topbar{
+margin-bottom: 30px;
+}
+
+	.row.single-article{
+	padding: 10px 25px 10px 25px;
+    margin: auto;
+	}
+@media (min-width:770px){
+.col-md-4.clearfix.kad-header-left:first-of-type {
+	display:none;
+}
+	.row.single-article{
+	padding: 10px 25px 10px 25px;
+    max-width: 80%;
+    margin: auto;
+	}
+	}
+
+#topbar-search form {
+ margin-right: 5%;
+}
+#email{
+width: 158px;
+height: 33px;
+padding-top: 1px;
+}
+#password{
+width: 158px;
+height: 33px;
+padding-top: 1px;
+}
+.sidebar_menu .widget {
+	margin: 0;
+	padding-left: 0;
+}
+.sidebar_menu .menu{
+list-style: none;
+}
+#menu-menu-2 {
+    font-size: 16px;
+}
+.menu-item-5388 {
+		float: right !important;
+}
+.menu-item-5388 a{
+font-weight: 600 !important;
+color: red !important;
+}
+.inder-content{
+    max-width: 1200px;
+    margin:  0 auto;
+}
+.row-fluid{
+    max-width: 1200px;
+    margin:  0 auto;
+}
+.box_div_footer4 {
+    bottom: 10px;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+}
+form .box_div_footer4{
+	bottom: -2px;
+}
+.box_div .box_div_md h4, .box_div .box_div_md p{
+	text-align: center;
+	color: #000;
+}
+
+.box_div input {
+    width: 90%;
+    font-style: italic;
+    padding: 8px;
+    margin: 0px 0px 12px;
+}
+input[type=text], input[type=email], input[type=url], input[type=password], input[type=search], textarea {
+    color: #666;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.menu {
+    padding-top:0px;
+		padding-left:0px;
+}
+.back_to_top {
+	color: #428bca !important;
+}
+.back_to_top:hover {
+	color: #428bca !important;
+	text-decoration: underline;
+}
+
+.edp-form {
+    font-style: normal;
+    min-width: 120px;
+    border: 1px solid #f65058;
+    font-weight: 600;
+    background-color: #fff;
+    color: #f65058 !important;
+    font-size: 12px;
+    width: 200px;
+    text-decoration: none !important;
+    padding: 8px 25px 8px 25px;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.5), inset 0 15px 17px rgba(255,255,255,.5), inset 0 -5px 12px rgba(0,0,0,.05);
+}
+
+.edp-form:hover, .edp-form:focus, .edp-form:active, .edp-form:visited {
+    font-style: normal;
+    min-width: 120px;
+    border: 1px solid #f65058;
+    font-weight: 600;
+    background-color: #fff;
+    color: #f65058;
+    font-size: 12px;
+    width: 200px;
+    text-decoration: none !important;
+    padding: 8px 25px 8px 25px;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.5), inset 0 15px 17px rgba(255,255,255,.5), inset 0 -5px 12px rgba(0,0,0,.05);
+}
+.underline_red_link {
+    color: #ff0000 !important;
+    text-decoration: underline;
+}
+.RedLeftMenu {
+    color: #DB1313 !important;
+}
+.RedLeftMenu:hover {
+		text-decoration: underline;
+}
+ul ul {
+	list-style: disc;
+}
+.box_div input {
+    width: 90%;
+    font-style: italic;
+    padding: 8px;
+    margin: 0px 0px 12px;
+}
+.box_div_agency input {
+	  width: 90%;
+    font-style: italic;
+    padding: 8px;
+    margin: 0px 0px 12px;
+}
+
+.box_div_agency p {
+	  text-align: center;
+}
+
+input[type=text], input[type=email], input[type=url], input[type=password], input[type=search], textarea {
+    color: #666;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.brochure {
+    padding: 5px;
+    text-align: center !important;
+}
+.cutom-brochure-label {
+    color: #A66133;
+    font-weight: bold;
+}
+.brochure{
+	  display: block;
+    border-radius:6px;
+    border: 1px solid #e5e5e5 !important;
+    position: relative;
+    padding: 10px 15px;
+    font-size: 16px;
+    margin:1.5em;
+	margin-bottom: 15px;
+}
+@media (max-width:480px){
+	.sidebar_menu li li a:after {
+	right: -2%;
+}
+}
+.uk-cover-background.uk-position-cover {
+  background-position: left;
+}
+
+.nav-trigger .nav-trigger-case {
+    border: 0;
+    padding: 0;
+    position: static;
+    display: block;
+    width: 100%;
+}
+
+.box_div_headre{
+    text-align: center;
+}
+@media(max-width:1200px){
+	.vc_col-sm-4{
+	width:100%;
+	}	
+}
+@media(min-width:1200px){
+	.posicion_absolute {
+		position: absolute;
+    color: white;
+    right: 7%;
+    padding: 2% 2% 0;
+    margin: 0;
+    text-align: center;
+    width: 320px!important;
+    z-index: 999999;
+    top: 0;
+}
+	.vc_custom_1543531540549 {
+		min-height: 600px;
+	padding-top: 60px !important;
+}
+	.vc_custom_1543531540549 h2{
+		/*padding-right: 30px;*/
+    padding-left: 30px;
+	}
+
+}
+@media(min-width:1350px){	.myinsu p{
+	line-height: 28px;
+	font-size: 18px;
+	text-align:left;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+}
+
+.uk-panel-box {
+    border: none; 
+}
+.uk-panel-box-nobg{
+background: none;
+}
+
+.uk-overlay-panel.uk-overlay.bottom.uk-overlay-fade {
+
+}
+
+/* White banner */
+#content .uk-slideshow li .uk-overlay-panel.uk-overlay-bottom  {
+margin-bottom: -20px;
+} 
+#content .uk-slideshow li .uk-overlay-panel.uk-overlay-bottom h2 {
+padding: 20px 0 !important;
+} 
+#content .uk-slideshow li .uk-overlay-panel {
+padding-left: 0;
+padding-right: 0;
+}
+/*virtue gaps */
+
+/*.vc_row.wpb_row.vc_row-fluid.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.vc_row-o-content-middle.vc_row-flex.wpb_start_animation.animated{
+top:-16px;	
+margin-bottom: -69px;
+}*/
+
+/*Header Mobile */
+@media(max-width:768px){
+.wide #wrapper.container {
+    margin-top: 200px;
+	}
+	#logo{
+	  position: absolute;
+    right: 38%;
+    left: 38%;
+    bottom: 155px;
+    z-index: 0;
+	}	
+	#topbar &gt; .container {
+		top: 130px;
+    position: absolute;
+	}
+	#topbar {
+    margin-bottom: 100px;
+	}
+
+}
+
+/*Social Aside Icons*/
+
+.social-aside-icons li{
+display:contents;
+}
+
+.social{
+  display: block;
+  text-align: left;
+}
+
+.social-aside{
+  display: inline-block;
+  text-align: left;
+  /* margin: 40px auto 25px; */
+  width: 350px;
+  /* text-transform: uppercase; */
+  overflow: hidden;
+  float: right;
+}
+
+.social-aside-text{
+  padding: 18px 25px 0 0;
+  letter-spacing: 1px;
+  font-weight: 300;
+  font-size: .85em;
+  /*text-transform: uppercase;*/
+  color:rgb(234,237,242);
+  color:rgba(234,237,242,.9);
+  /*border-bottom:1px solid rgba(255,255,255,.5);*/
+}
+
+.social-aside-icons{
+}
+
+.social-aside a{
+  color:white;
+}
+
+.social-aside i{
+  width: 40px;
+  /* height: 30px; */
+    padding: 10px 14px;
+  text-align: center;
+  margin-right: 2px;
+  line-height: 1em;
+  /*border: 1px solid rgba(147,149,152,.5);*/
+  transition:all .25s;
+}
+
+#fb-icon{
+  /*border-bottom: 2px solid rgba(59, 89, 152,.75);*/
+  color:rgb(59, 89, 152);
+
+background: rgb(234,237,242);
+
+  background: linear-gradient(rgb(234,237,242) 50%, 
+rgb(59, 89, 152) 50%);
+  background-size: 100% 174%;
+  transition:all .25s;
+  border-radius: 50%;
+}
+#twitter-icon{
+  /*border-bottom: 2px solid rgba(29, 202, 255,.75);*/
+  color:rgb(29, 202, 255);
+background: rgb(234,237,242);
+  background: linear-gradient(rgb(234,237,242) 50%, rgb(29, 202, 255) 50%);
+  background-size: 100% 174%;
+  transition:all .25s;
+    border-radius: 50%;
+}
+#googleplus-icon{
+  /*border-bottom: 2px solid rgba(211, 72, 54,.75);*/
+  color:rgb(211, 72, 54);
+background: rgb(234,237,242);
+  background: linear-gradient(rgb(234,237,242) 50%, rgb(211, 72, 54) 50%);
+  background-size: 100% 174%;
+  transition:all .25s;
+    border-radius: 50%;
+}
+#linkedin-icon{
+  /*border-bottom: 2px solid rgba(0, 123, 182,.75);*/
+  color:rgb(0, 123, 182);
+background: rgb(234,237,242);
+  background: linear-gradient(rgb(234,237,242) 50%, rgb(0, 123, 182) 50%);
+  background-size: 100% 174%;
+  transition:all .25s;
+    border-radius: 50%;
+}
+#youtube-icon{
+  /*border-bottom: 2px solid rgba(187, 0, 0,.75);*/
+  color:rgb(187, 0, 0);
+  background: linear-gradient(rgb(234,237,242) 50%, rgb(187, 0, 0) 50%);
+  background-size: 100% 174%;
+  transition:all .25s;
+    border-radius: 50%;
+}
+#fb-icon:hover{
+  /*background: linear-gradient(rgb(50,58,70) 50%, rgb(59, 89, 152) 50%);*/
+
+  color:white;
+  background-position: 100% 100%;
+  background-size: 100% 200%;
+}
+#twitter-icon:hover{
+  color:white;
+  background-position: 100% 100%;
+  background-size: 100% 200%;
+  /*background-color: rgb(29, 202, 255);*/
+}
+#googleplus-icon:hover{
+  color:white;
+  background-position: 100% 100%;
+  background-size: 100% 200%;
+  /*background-color: rgb(211, 72, 54);*/
+}
+#linkedin-icon:hover{
+  color:white;
+  background-position: 100% 100%;
+  background-size: 100% 200%;
+  /*background-color: rgb(0, 123, 182);*/
+}
+#youtube-icon:hover{
+  color:white;
+  background-position: 100% 100%;
+  background-size: 100% 200%;
+  /*background-color: rgb(187, 0, 0);*/
+}
+
+
+.fa-facebook:before{
+    font-size:1.4em;
+    content:"f09a"
+}
+.fa-twitter:before{
+    font-size:1.4em;
+    content:"f099"
+}
+.fa-google-plus:before{
+    font-size:1.4em;
+    content:"f0d5"
+}
+.fa-linkedin:before{
+    font-size:1.4em;
+    content:"f0e1"
+}
+.fa-youtube-play:before{
+    font-size:1.4em;
+    content:"f16a"
+}
+
+/*End Social Aside Icons*/
+@-moz-document url-prefix() { 
+	@media (max-width: 768px){
+		#topbar {
+			margin-bottom: 150px;
+		}
+	}
+	#content .uk-slideshow li .uk-overlay-panel.uk-overlay-bottom h2 {
+    background: #fff;
+    opacity: .70;
+}
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) { 
+li div h2{
+background: rgba(255, 255, 255, 0.80) !important;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)" !important;
+	}
+	.social-aside-icons li
+	{
+		display:inline-block;
+	}
+			#topbar {margin-bottom: 50px;
+		}
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none){
+	
+@media screen and (max-width: 768px) { 
+					#topbar {margin-bottom: 150px;
+		}
+	}
+	@media screen and (min-width: 769px) { 
+					#topbar {margin-bottom: 50px;
+		}
+		#logo .kad-standard-logo{
+			display:block !important;
+		}
+	}
+}
+
+
+
+
+@media (max-width: 768px) {
+@media not all and (min-resolution:.001dpcm) {
+	#content .uk-slideshow li .uk-overlay-panel.uk-overlay-bottom {
+   background: #fff; 
+   opacity: .70;
+   background-position: center bottom;
+   background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+				}
+			}
+    }
+
+
+.footercredits {
+    margin-top: 25px;
+}
+.vc_row{
+	margin-top: 10px;
+}
+/*
+.vc_column_container {
+    padding-left: 10px;
+	padding-right: 10px;
+  }
+  */
+@media (max-width: 768px) {
+.vc_row{
+	margin-top: 30px;
+}
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+	@media (max-width: 768px) {
+		#content .uk-slideshow li .uk-overlay-panel.uk-overlay-bottom {
+   background: #fff; 
+   opacity: .70;
+   background-position: center bottom;
+   background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+		}
+				}
+}
+.archive .contentclass{
+	max-width:1200px;
+	margin:0 auto;
+}
+.social-aside-icons a {
+    padding-right: 3px;
+    padding-left: 3px;
+    height: 30px;
+    margin-top: 5px;
+}
+.widget_archive ul{
+	padding-left:30px;
+}
+.blog .postlist {
+	margin-top: 15px;
+}
+.download-today .vc_column-inner{
+	background-size: 100% 100% !important;
+}
+@media (max-width: 768px) {
+.download-today{
+	height: 430px;
+}
+}
+.kad-menu-name{
+	display:none !important;
+}
+.error404 .contentclass {
+	max-width:1024px;
+	margin: 0 auto;
+}		</style>
+	<style class="options-output" type="text/css">header #logo a.brand,.logofont{font-family:"Open Sans";line-height:40px;font-weight:400;font-style:normal;font-size:32px;}.kad_tagline{font-family:"Open Sans";line-height:20px;font-weight:400;font-style:normal;color:#444444;font-size:14px;}.product_item .product_details h5{font-family:Lato;line-height:20px;font-weight:700;font-style:normal;font-size:16px;}h1{font-family:"Open Sans";line-height:42px;font-weight:400;font-style:normal;color:#0f0f0f;font-size:32px;}h2{font-family:"Open Sans";line-height:24px;font-weight:700;font-style:normal;color:#f65058;font-size:24px;}h3{font-family:"Open Sans";line-height:28px;font-weight:600;font-style:normal;color:#f65058;font-size:24px;}h4{font-family:"Open Sans";line-height:28px;font-weight:400;font-style:normal;color:#f65058;font-size:18px;}h5{font-family:"Open Sans";line-height:28px;font-weight:700;font-style:normal;font-size:18px;}body{font-family:"Open Sans";line-height:20px;font-weight:400;font-style:normal;color:#000000;font-size:16px;}#nav-main ul.sf-menu a{font-family:"Open Sans";line-height:18px;font-weight:400;font-style:normal;color:#555555;font-size:16px;}#nav-second ul.sf-menu a{font-family:"Open Sans";line-height:16px;font-weight:400;font-style:normal;color:#555555;font-size:16px;}.kad-nav-inner .kad-mnav, .kad-mobile-nav .kad-nav-inner li a,.nav-trigger-case{font-family:"Open Sans";line-height:20px;font-weight:400;font-style:normal;color:#555555;font-size:14px;}</style><style data-type="vc_shortcodes-custom-css" type="text/css">.vc_custom_1437652930695{margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1548925529533{margin-top: 0px !important;padding-top: 0px !important;}</style><noscript>&lt;style type="text/css"&gt; .wpb_animate_when_almost_visible { opacity: 1; }&lt;/style&gt;</noscript><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+<body class="page-template-default page page-id-2049 wide contact-us wpb-js-composer js-comp-ver-5.7 vc_responsive">
+	<div id="kt-skip-link"><a href="#content">Skip to Main Content</a></div>
+	<div class="container" id="wrapper">
+	<header itemtype="https://schema.org/WPHeader" itemscope="" class="banner headerclass">
+	<div class="topclass" id="topbar">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-6 kad-topbar-left">
+				<div class="topbarmenu clearfix">
+								</div>
+			</div><!-- close col-md-6 --> 
+			<div class="col-md-6 col-sm-6 kad-topbar-right">
+				<div class="topbar-widget" id="topbar-search">
+					<div class="textwidget custom-html-widget">
+
+
+<link type="image/x-icon" href="/wp-content/uploads/2015/05/favicon-23.ico" rel="icon" />
+<style>
+input[type=password], select, textarea {
+    width: auto;
+    padding: 4px;
+    border: 1px solid #ccc;
+		display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=email], select, textarea {
+    width: auto;
+    color:#ccc;
+		display: inline-block;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+   
+}
+
+
+input[type=submit] {
+    background-color: white;
+	width:auto;
+	color: red;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: gray;
+    color:white;
+}
+.logohead{
+	position:absolute;
+	left:-95%;
+	}
+	@media (max-width: 1100px){
+.form-inline.log-nd .form-group {
+		display: block;
+    margin-bottom: 15px;
+}
+	}
+		@media (max-width: 767px){
+			.form-inline.log-nd .form-group {
+		text-align: left !important;
+}
+.form-inline.log-nd .form-group {
+		display: block;
+    margin-bottom: 15px;
+}
+			.form-inline.log-nd label {
+		display: block !important;
+    margin-bottom: 15px;
+		margin-left: 45px;
+}
+			.form-inline.log-nd .form-group {
+		display: block;
+    margin-bottom: 15px;
+}
+.form-inline.log-nd .btn {
+		margin: 0 auto;
+    float: left;
+    margin-left: 45px;
+			}
+.form-inline.log-nd input[type=text], .form-inline.log-nd input[type=email], .form-inline.log-nd input[type=url], .form-inline.log-nd input[type=password], .form-inline.log-nd input[type=search], .form-inline.log-nd textarea {
+			display: block;
+			width: 80%;
+			margin-left: 45px;
+			}
+	}
+	
+</style>
+
+
+<div class="row">
+	<div class="logohead">
+<div class="logocase" id="logo">
+<a href="/" class="brand logofont">
+<div id="thelogo">
+<img width="103" height="77" class="kad-standard-logo" alt="N&amp;D Group" src="/wp-content/uploads/website-logo-1.png" />
+</div>
+</a>
+</div> <!-- Close #logo -->
+</div>
+
+<div>
+<!--<form class="form-inline"  action="/action_page.php"><span style="color:#555; font-size:14px;">My Insurance® Sign In:</span>
+<input type="email" id="email" name="email" placeholder="Email" value="">
+<input type="password" id="password" name="password" placeholder="Password" value="">
+<button type="submit" id="login" style="color: red;" name="method:secureLogin" class="btn btn-default">Sign in</button>
+</form>-->
+
+<form method="post" action="https://myinsurance.ndgroup.com/Login.action" name="Login" id="Login" class="form-inline log-nd">
+<div class="text-right mobile-text-left" style="padding-top: 10px;">
+<!--My Insurance<sup>&reg;</sup> Sign In: 
+<input type="text" placeholder="Email" name="username" value="" id="loginUsername"/>
+<input type="password" name="password" id="Login_password" placeholder="Password"/>
+<input type="submit" id="login" name="method:secureLogin" value="LOGIN" class="button" style="width:75px; display: block;">&nbsp; &nbsp;
+<div id="search-icon"></div>
+<div class="row text-right" style="padding-right:105px; font-size:13px">
+<a href="https://myinsuranceqa.ndgroup.com/ForgotPassword.action" target="_blank">Forgot your password?</a>
+</div>
+</div>
+<br/>
+-->
+																																																   
+
+  <div class="form-group">  <label style="color: black;font-weight: normal;display: inline-block;font-size:14px">My Insurance<sup>®</sup> Sign In:</label>
+	<input type="email" value="" name="username" placeholder="Email" class="form-control" />
+  </div>
+  <div class="form-group">
+	<input type="password" placeholder="Password" name="password" class="form-control" />
+  </div>
+  <button class="btn btn-default" name="method:secureLogin" style="color: red;" id="login" type="submit">Sign in</button>
+    
+<!--<div id="search-icon"></div>-->
+</div>
+</form>
+	
+	<div style="padding-right:80px; font-size:13px; width: 100%; float: right; " class="custom-registration-position row text-right"><a target="_blank" href="https://myinsurance.ndgroup.com/ForgotPassword.action" id="myinsurance_forgot_pass" class="underline-link">Forgot your password?</a>  <a target="_blank" href="https://myinsurance.ndgroup.com/Registration" id="myinsurance_forgot_reg" class="underline-link">Register here</a></div>
+	
+</div>	
+</div>
+
+</div>				</div>
+			</div> <!-- close col-md-6-->
+		</div> <!-- Close Row -->
+	</div> <!-- Close Container -->
+</div>	<div class="container">
+		<div class="row">
+			<div class="col-md-4 clearfix kad-header-left">
+				<div class="logocase" id="logo">
+					<a href="https://www.ndgroup.com/" class="brand logofont">
+													<div id="thelogo">
+								<img width="103" height="77" class="kad-standard-logo" alt="The N&amp;D Group Insurance" src="https://www.ndgroup.com/wp-content/uploads/website-logo-1.png" />
+																<img width="103" height="77" style="max-height:77px" class="kad-retina-logo" alt="The N&amp;D Group Insurance" src="https://www.ndgroup.com/wp-content/uploads/website-logo-1.png" />
+															</div>
+												</a>
+									</div> <!-- Close #logo -->
+			</div><!-- close logo span -->
+			       
+		</div> <!-- Close Row -->
+					<div class="nav-trigger" id="mobile-nav-trigger">
+				<button data-target=".kad-nav-collapse" data-toggle="collapse" class="nav-trigger-case mobileclass collapsed">
+					<span class="kad-navbtn"><i class="icon-reorder"></i></span>
+					<span class="kad-menu-name">Menu</span>
+				</button>
+			</div>
+			<div class="kad-mobile-nav" id="kad-mobile-nav">
+				<div class="kad-nav-inner mobileclass">
+					<div class="kad-nav-collapse">
+					<ul class="kad-mnav" id="menu-menu-1"><li class="menu-about-nd-%e2%96%be current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor sf-dropdown sf-dropdown-toggle menu-item-5387"><a href="https://www.ndgroup.com/about-nd/"><span>About N&amp;D® ▾</span></a><span data-target="" data-toggle="collapse" data-parent=".kad-nav-collapse" class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open"><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sub-menu sf-dropdown-menu collapse">
+	<li class="menu-testimonials menu-item-5374"><a href="https://www.ndgroup.com/testimonials/"><span>Testimonials</span></a></li>
+	<li class="menu-careers menu-item-5373"><a href="https://www.ndgroup.com/about-careers/"><span>Careers</span></a></li>
+	<li class="menu-contact-us current-menu-item current_page_item menu-item-5389"><a aria-current="page" href="https://www.ndgroup.com/contact-us/"><span>Contact Us</span></a></li>
+</ul>
+</li>
+<li class="menu-find-an-nd-agent menu-item-5368"><a href="https://www.ndgroup.com/agency-locator/"><span>Find An N&amp;D® Agent</span></a></li>
+<li class="menu-billing-and-payment-%e2%96%be sf-dropdown sf-dropdown-toggle menu-item-5369"><a href="https://www.ndgroup.com/billing/"><span>Billing And Payment ▾</span></a><span data-target="" data-toggle="collapse" data-parent=".kad-nav-collapse" class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open"><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sub-menu sf-dropdown-menu collapse">
+	<li class="menu-online-payment menu-item-5380"><a href="https://ipn.paymentus.com/otp/stde/ndni" target="_blank"><span>Online Payment</span></a></li>
+	<li class="menu-edp-authorization-form menu-item-5379"><a href="https://www.ndgroup.com/wwwcontent/prod/shared-media/EDP%20Authorization%20Form.pdf" target="_blank"><span>EDP Authorization Form</span></a></li>
+</ul>
+</li>
+<li class="menu-claims-services-%e2%96%be sf-dropdown sf-dropdown-toggle menu-item-5370"><a href="https://www.ndgroup.com/claims/"><span>Claims Services ▾</span></a><span data-target="" data-toggle="collapse" data-parent=".kad-nav-collapse" class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open"><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sub-menu sf-dropdown-menu collapse">
+	<li class="menu-automated-claims-vehicles menu-item-5375"><a href="https://www.ndgroup.com/claims-automated-vehicles/"><span>Automated Claims Vehicles</span></a></li>
+	<li class="menu-ma-bodyshops menu-item-5376"><a href="https://www.ndgroup.com/claims-bodyshops/"><span>MA Bodyshops</span></a></li>
+	<li class="menu-ma-drive-in-claims-centers menu-item-5377"><a href="https://www.ndgroup.com/claims-drive-in/"><span>MA Drive-In Claims Centers</span></a></li>
+	<li class="menu-report-a-claim menu-item-5378"><a href="https://www.ndgroup.com/report-a-claim/"><span>Report A Claim</span></a></li>
+</ul>
+</li>
+<li class="menu-insurance-solutions-%e2%96%be sf-dropdown sf-dropdown-toggle menu-item-5367"><a href="https://www.ndgroup.com/insurance-solutions/"><span>Insurance Solutions ▾</span></a><span data-target="" data-toggle="collapse" data-parent=".kad-nav-collapse" class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open"><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sub-menu sf-dropdown-menu collapse">
+	<li class="menu-commercial-insurance menu-item-5385"><a href="https://www.ndgroup.com/insurance-comm-auto/"><span>Commercial Insurance</span></a></li>
+	<li class="menu-%e2%80%a2-auto menu-item-5391"><a href="https://www.ndgroup.com/insurance-comm-auto/"><span>• Auto</span></a></li>
+	<li class="menu-%e2%80%a2-compak-businessowners menu-item-7278"><a href="https://www.ndgroup.com/insurance-comm-business-owners/"><span>• ComPak® – Businessowners</span></a></li>
+	<li class="menu-%e2%80%a2-employment-practices-liability menu-item-5393"><a href="https://www.ndgroup.com/insurance-comm-epl/"><span>• Employment Practices Liability</span></a></li>
+	<li class="menu-%e2%80%a2-farmowners menu-item-5390"><a href="https://www.ndgroup.com/farmowners-page/"><span>• Farmowners</span></a></li>
+	<li class="menu-%e2%80%a2-umbrella menu-item-5394"><a href="https://www.ndgroup.com/insurance-comm-umbrella/"><span>• Umbrella</span></a></li>
+	<li class="menu-%e2%80%a2-workpak-workers-compensation menu-item-5395"><a href="https://www.ndgroup.com/insurance-comm-workers-comp/"><span>• WorkPak® – Workers’ Compensation</span></a></li>
+	<li class="menu-personal-insurance menu-item-5386"><a href="https://www.ndgroup.com/insurance-personal-auto/"><span>Personal Insurance</span></a></li>
+	<li class="menu-%e2%80%a2-auto menu-item-5396"><a href="https://www.ndgroup.com/insurance-personal-auto/"><span>• Auto</span></a></li>
+	<li class="menu-%e2%80%a2-dwelling-fire menu-item-5397"><a href="https://www.ndgroup.com/insurance-personal-dwelling/"><span>• Dwelling Fire</span></a></li>
+	<li class="menu-%e2%80%a2-homeowners menu-item-5398"><a href="https://www.ndgroup.com/insurance-personal-homeowners/"><span>• Homeowners</span></a></li>
+	<li class="menu-%e2%80%a2-inland-marine menu-item-5399"><a href="https://www.ndgroup.com/insurance-personal-inland/"><span>• Inland Marine</span></a></li>
+	<li class="menu-%e2%80%a2-umbrella menu-item-5400"><a href="https://www.ndgroup.com/insurance-personal-umbrella/"><span>• Umbrella</span></a></li>
+</ul>
+</li>
+<li class="menu-safety-tips-%e2%96%be sf-dropdown sf-dropdown-toggle menu-item-5371"><a href="https://www.ndgroup.com/safety-tips-4/"><span>Safety Tips ▾</span></a><span data-target="" data-toggle="collapse" data-parent=".kad-nav-collapse" class="kad-submenu-accordion collapse-next  kad-submenu-accordion-open"><i class="icon-chevron-down"></i><i class="icon-chevron-up"></i></span>
+<ul class="sub-menu sf-dropdown-menu collapse">
+	<li class="menu-auto-loss-control-topics menu-item-5381"><a href="https://www.ndgroup.com/loss-prevention-auto-art/"><span>Auto Loss Control Topics</span></a></li>
+	<li class="menu-businessowners-loss-control-topics menu-item-5382"><a href="https://www.ndgroup.com/loss-prevention-bus-owners-art/"><span>Businessowners Loss Control Topics</span></a></li>
+	<li class="menu-homeowners-loss-control-topics menu-item-5383"><a href="https://www.ndgroup.com/loss-prevention-homeowner-art/"><span>Homeowners Loss Control Topics</span></a></li>
+	<li class="menu-winter-loss-control-topics menu-item-5384"><a href="https://www.ndgroup.com/loss-prevention-winter-art/"><span>Winter Loss Control Topics</span></a></li>
+</ul>
+</li>
+<li class="menu-agent-login menu-item-5388"><a href="https://www.agentpak.com" target="_blank"><span>Agent Login</span></a></li>
+</ul>					</div>
+				</div>
+			</div>
+		 
+	</div> <!-- Close Container -->
+			<section class="navclass" id="cat_nav">
+			<div class="container">
+				<nav itemtype="https://schema.org/SiteNavigationElement" itemscope="" class="clearfix" id="nav-second">
+					<ul class="sf-menu sf-js-enabled" id="menu-menu-2"><li class="menu-about-nd-%e2%96%be current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor sf-dropdown menu-item-5387"><a href="https://www.ndgroup.com/about-nd/" class="sf-with-ul"><span>About N&amp;D® ▾</span><span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu sf-dropdown-menu dropdown" style="display: none;">
+	<li class="menu-testimonials menu-item-5374"><a href="https://www.ndgroup.com/testimonials/"><span>Testimonials</span></a></li>
+	<li class="menu-careers menu-item-5373"><a href="https://www.ndgroup.com/about-careers/"><span>Careers</span></a></li>
+	<li class="menu-contact-us current-menu-item current_page_item menu-item-5389"><a aria-current="page" href="https://www.ndgroup.com/contact-us/"><span>Contact Us</span></a></li>
+</ul>
+</li>
+<li class="menu-find-an-nd-agent menu-item-5368"><a href="https://www.ndgroup.com/agency-locator/"><span>Find An N&amp;D® Agent</span></a></li>
+<li class="menu-billing-and-payment-%e2%96%be sf-dropdown menu-item-5369"><a href="https://www.ndgroup.com/billing/" class="sf-with-ul"><span>Billing And Payment ▾</span><span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu sf-dropdown-menu dropdown" style="display: none;">
+	<li class="menu-online-payment menu-item-5380"><a href="https://ipn.paymentus.com/otp/stde/ndni" target="_blank"><span>Online Payment</span></a></li>
+	<li class="menu-edp-authorization-form menu-item-5379"><a href="https://www.ndgroup.com/wwwcontent/prod/shared-media/EDP%20Authorization%20Form.pdf" target="_blank"><span>EDP Authorization Form</span></a></li>
+</ul>
+</li>
+<li class="menu-claims-services-%e2%96%be sf-dropdown menu-item-5370"><a href="https://www.ndgroup.com/claims/" class="sf-with-ul"><span>Claims Services ▾</span><span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu sf-dropdown-menu dropdown" style="display: none;">
+	<li class="menu-automated-claims-vehicles menu-item-5375"><a href="https://www.ndgroup.com/claims-automated-vehicles/"><span>Automated Claims Vehicles</span></a></li>
+	<li class="menu-ma-bodyshops menu-item-5376"><a href="https://www.ndgroup.com/claims-bodyshops/"><span>MA Bodyshops</span></a></li>
+	<li class="menu-ma-drive-in-claims-centers menu-item-5377"><a href="https://www.ndgroup.com/claims-drive-in/"><span>MA Drive-In Claims Centers</span></a></li>
+	<li class="menu-report-a-claim menu-item-5378"><a href="https://www.ndgroup.com/report-a-claim/"><span>Report A Claim</span></a></li>
+</ul>
+</li>
+<li class="menu-insurance-solutions-%e2%96%be sf-dropdown menu-item-5367"><a href="https://www.ndgroup.com/insurance-solutions/" class="sf-with-ul"><span>Insurance Solutions ▾</span><span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu sf-dropdown-menu dropdown" style="display: none;">
+	<li class="menu-commercial-insurance menu-item-5385"><a href="https://www.ndgroup.com/insurance-comm-auto/"><span>Commercial Insurance</span></a></li>
+	<li class="menu-%e2%80%a2-auto menu-item-5391"><a href="https://www.ndgroup.com/insurance-comm-auto/"><span>• Auto</span></a></li>
+	<li class="menu-%e2%80%a2-compak-businessowners menu-item-7278"><a href="https://www.ndgroup.com/insurance-comm-business-owners/"><span>• ComPak® – Businessowners</span></a></li>
+	<li class="menu-%e2%80%a2-employment-practices-liability menu-item-5393"><a href="https://www.ndgroup.com/insurance-comm-epl/"><span>• Employment Practices Liability</span></a></li>
+	<li class="menu-%e2%80%a2-farmowners menu-item-5390"><a href="https://www.ndgroup.com/farmowners-page/"><span>• Farmowners</span></a></li>
+	<li class="menu-%e2%80%a2-umbrella menu-item-5394"><a href="https://www.ndgroup.com/insurance-comm-umbrella/"><span>• Umbrella</span></a></li>
+	<li class="menu-%e2%80%a2-workpak-workers-compensation menu-item-5395"><a href="https://www.ndgroup.com/insurance-comm-workers-comp/"><span>• WorkPak® – Workers’ Compensation</span></a></li>
+	<li class="menu-personal-insurance menu-item-5386"><a href="https://www.ndgroup.com/insurance-personal-auto/"><span>Personal Insurance</span></a></li>
+	<li class="menu-%e2%80%a2-auto menu-item-5396"><a href="https://www.ndgroup.com/insurance-personal-auto/"><span>• Auto</span></a></li>
+	<li class="menu-%e2%80%a2-dwelling-fire menu-item-5397"><a href="https://www.ndgroup.com/insurance-personal-dwelling/"><span>• Dwelling Fire</span></a></li>
+	<li class="menu-%e2%80%a2-homeowners menu-item-5398"><a href="https://www.ndgroup.com/insurance-personal-homeowners/"><span>• Homeowners</span></a></li>
+	<li class="menu-%e2%80%a2-inland-marine menu-item-5399"><a href="https://www.ndgroup.com/insurance-personal-inland/"><span>• Inland Marine</span></a></li>
+	<li class="menu-%e2%80%a2-umbrella menu-item-5400"><a href="https://www.ndgroup.com/insurance-personal-umbrella/"><span>• Umbrella</span></a></li>
+</ul>
+</li>
+<li class="menu-safety-tips-%e2%96%be sf-dropdown menu-item-5371"><a href="https://www.ndgroup.com/safety-tips-4/" class="sf-with-ul"><span>Safety Tips ▾</span><span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu sf-dropdown-menu dropdown" style="display: none;">
+	<li class="menu-auto-loss-control-topics menu-item-5381"><a href="https://www.ndgroup.com/loss-prevention-auto-art/"><span>Auto Loss Control Topics</span></a></li>
+	<li class="menu-businessowners-loss-control-topics menu-item-5382"><a href="https://www.ndgroup.com/loss-prevention-bus-owners-art/"><span>Businessowners Loss Control Topics</span></a></li>
+	<li class="menu-homeowners-loss-control-topics menu-item-5383"><a href="https://www.ndgroup.com/loss-prevention-homeowner-art/"><span>Homeowners Loss Control Topics</span></a></li>
+	<li class="menu-winter-loss-control-topics menu-item-5384"><a href="https://www.ndgroup.com/loss-prevention-winter-art/"><span>Winter Loss Control Topics</span></a></li>
+</ul>
+</li>
+<li class="menu-agent-login menu-item-5388"><a href="https://www.agentpak.com" target="_blank"><span>Agent Login</span></a></li>
+</ul>				</nav>
+			</div><!--close container-->
+		</section>
+	</header>
+	<div role="document" class="wrap contentclass">
+
+	
+<div class="container container-contained" id="content">
+	<div class="row">
+		<div role="main" class="main col-md-12">
+			<div itemtype="https://schema.org/WebPageElement" itemscope="" itemprop="mainContentOfPage" class="entry-content">
+				<div class="vc_row wpb_row vc_row-fluid row-fluid boxes_wrapper"><div class="left-navbar-custom wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_wp_custommenu wpb_content_element sidebar_menu"><div class="widget widget_nav_menu"><h2 class="widgettitle">About N&amp;D®</h2><ul class="menu" id="menu-about-nd"><li class="menu-who-we-are menu-item-5403"><a href="https://www.ndgroup.com/about-nd/"><span>Who We Are</span></a></li>
+<li class="menu-our-clients-testimonials menu-item-5401"><a href="https://www.ndgroup.com/testimonials/"><span>Our Clients / Testimonials</span></a></li>
+<li class="menu-careers menu-item-5404"><a href="https://www.ndgroup.com/about-careers/"><span>Careers</span></a></li>
+<li class="menu-contact-us current-menu-item current_page_item menu-item-5402"><a aria-current="page" href="https://www.ndgroup.com/contact-us/"><span>Contact Us</span></a></li>
+</ul></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1437652930695 red_text">
+		<div class="wpb_wrapper">
+			<h3>Contact Us</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  bm_25">
+		<div class="wpb_wrapper">
+			<p>We would love to hear from you</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1548925529533">
+		<div class="wpb_wrapper">
+			<p>The Norfolk &amp; Dedham Group<sup>®</sup> values your <span style="color: #ff0000;"><strong><a href="mailto:customerservice@ndgroup.com" style="color: #ff0000 !important;">feedback</a></strong></span>. For a claim or policy specific question, please be sure to include your claim or policy number. For more information about our insurance products, please use our Agency Locator to find a convenient and local N&amp;D<sup>®</sup> Group agent. For any other information about The Norfolk &amp; Dedham Group<sup>®</sup>, please call:</p>
+<p class="RedLeftMenu text-center"><span style="color: #ff0000;"><strong><a href="tel:18006881825" style="color: #ff0000 !important;" class="tel-disabled-desktop">1-800-688-1825 Ext. 1200</a></strong></span></p>
+<p style="text-align: center;">or email: <span style="color: #ff0000;"><strong><a href="mailto:policyholderservices@ndgroup.com" style="color: #ff0000 !important;">Policyholderservices@ndgroup.com</a></strong></span></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  RedLeftMenu">
+		<div class="wpb_wrapper">
+			<h4><span style="color: #ff0000;">Office Locations</span></h4>
+<p><span style="color: #000000;">Our main offices are open Monday through Friday, 8:00 AM to 6:00 PM. If you need to report a claim, you can call us 24/7 at 1-800-688-1825.</span></p>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><strong>222 Ames Street, P.O.Box 9109</strong> <strong> Dedham, MA 02027-9109 </strong><br />
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d2953.268964334497%212d-71.17721604907223%213d42.25142844984553%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x89e37f9bd0f9e1fd%3A0xc477154613dad0a3%212s222+Ames+St%2C+Dedham%2C+MA+02026%2C+USA%215e0%213m2%211sen%212smx%214v1537895494669" style="border: 0;"></iframe></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><strong>50 Division Street, Suite 400</strong> <strong> Somerville, NJ 08876</strong><br />
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d3030.8458678388583%212d-74.61595064911921%213d40.56708085430434%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x89c3954ae212cdef%3A0x4338250f56cbb6bf%212s50+Division+St+%23400%2C+Somerville%2C+NJ+08876%2C+USA%215e0%213m2%211sen%212smx%214v1537895551386" style="border: 0;"></iframe></p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div><div class="right-col-custom-width hidden-xs wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left   page_img">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="200" height="200" title="" alt="" src="https://www.ndgroup.com/wp-content/uploads/Fotolia_17694474_M-200x200.jpg" class="vc_single_image-img " /></div>
+		</figure>
+	</div>
+</div></div></div></div>
+<div style="position:absolute; top:0; left:-9999px;"><a href="https://www.themeslide.com">Download WordPress Themes</a></div>			</div>
+					</div><!-- /.main -->
+			</div><!-- /.row-->
+		</div><!-- /.content -->
+	</div><!-- /.wrap -->
+	<footer itemtype="https://schema.org/WPFooter" itemscope="" class="footerclass" id="containerfooter">
+  <div class="container">
+  	<div class="row">
+  		 
+					<div class="col-md-4 footercol1">
+					<div class="widget-1 widget-first footer-widget"><aside class="widget widget_text" id="text-4">			<div class="textwidget"></div>
+		</aside></div>					</div> 
+            					 
+					<div class="col-md-4 footercol2">
+					<div class="widget-1 widget-first footer-widget"><aside class="widget widget_text" id="text-2">			<div class="textwidget"><div style="text-align: center;"><img width="50%" height="auto" alt="" src="/wp-content/uploads/2017/04/Locally-Grown-Insurance-90-Dark-Grey.png" style="width: 312px;" /></div>
+<p> </p>
+<div style="text-align: center;"><a href="/about-careers" class="underline-link"> Careers </a>|<a href="/site-map/" class="underline-link"> Site Map </a>|<a href="/legal-statement/" class="underline-link"> Legal Statement </a>| <a href="/privacy-policy" class="underline-link">Privacy Policy </a>| <a href="/" class="underline-link">Home</a> | <a href="/contact-us" class="underline-link">Contact Us</a></div>
+<p> </p>
+<div style="text-align: center;"><a rel="noopener" target="_blank" href="http://ratings.ambest.com/CompanyProfile.aspx?BL=0&amp;ambnum=2367&amp;AltNum=20352367&amp;AltSrc=3"><img width="auto" height="auto" alt="BEST" src="/wp-content/uploads/2015/08/bestsicon.gif" /></a></div>
+</div>
+		</aside></div>					</div> 
+		        		         
+					<div class="col-md-4 footercol3">
+					<div class="widget-1 widget-first footer-widget"><aside class="widget widget_text" id="text-3">			<div class="textwidget"><div class="social">
+<div class="social-aside">
+<ul style="padding-top: 15px; margin-left: 30%;" class="social-aside-icons"><a href="https://www.facebook.com/TheNDGroup" target="_blank"><i title="Facebook" id="fb-icon" class="icon-facebook "></i></a><a href="https://twitter.com/NorfolkDedham" target="_blank"><i title="Twitter" id="twitter-icon" class="icon-twitter" style="padding: 10px 11px;"></i></a><a href="https://www.linkedin.com/company/n&amp;d" target="_blank"><i title="LinkedIn" id="linkedin-icon" class=" icon-linkedin" style="padding: 10px 12px;"></i></a>  <p></p>
+<p><a href="https://itunes.apple.com/us/app/my-insurance-mobile-account/id1094321501?ls=1&amp;mt=8" target="_blank"><img style="width:135px;height:40px;" alt="My Insurance Mobile App" src="https://www.ndgroup.com/wp-content/uploads/2016/05/Download_on_the_App_Store_Badge_US-UK_135x40.png" /> </a></p></ul>
+</div>
+</div>
+</div>
+		</aside></div>					</div> 
+	            			        </div>
+        <div class="footercredits clearfix">
+    		
+    		        	<p></p><div>Norfolk &amp; Dedham Mutual Fire Insurance Co. - Dorchester Mutual Insurance Co. - Fitchburg Mutual Insurance Co.<sup>©</sup> 2019 N&amp;D<sup>®</sup> Group. ALL RIGHTS RESERVED</div><p></p>
+    	</div>
+
+  </div>
+
+</footer>
+
+		</div><!--Wrapper-->
+		<script src="https://www.ndgroup.com/wp-content/themes/virtue/assets/js/min/bootstrap-min.js?ver=3.3.2" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-includes/js/masonry.min.js?ver=3.3.2" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-content/themes/virtue/assets/js/min/plugins-min.js?ver=3.3.2" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-content/themes/virtue/assets/js/min/main-min.js?ver=3.3.2" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-includes/js/wp-embed.min.js?ver=2fa5cece326b3981bea29c812fd4d757" type="text/javascript"></script>
+<script src="https://www.ndgroup.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.7" type="text/javascript"></script>
+	
+<div id="topcontrol" style="position: fixed; bottom: 52px; right: 0px; opacity: 0; cursor: pointer;" title="To the top!"><div class="to_the_top"><div class="icon-arrow-up"></div></div></div></body><canvas id="fxdriver-screenshot-canvas" style="display: none;" width="1037" height="2145"></canvas></html>
